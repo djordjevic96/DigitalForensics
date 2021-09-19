@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/jJuaPcswFQ/kAfR8EaWCpGaJCYiShbbQlUgSxJSyEw3hXRLAXvkA1n3/GefN8k48PRPg5yb7CP2eR3Fj957g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marko\\source\\repos\\FileSystemAnalysis\\DigitalForensics.Helper\\DigitalForensics.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marko\\.nuget\\packages\\elasticsearch.net\\7.14.1\\elasticsearch.net.7.14.1.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\nest\\7.14.1\\nest.7.14.1.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

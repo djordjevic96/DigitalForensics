@@ -1,0 +1,12 @@
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\bin\Debug\net5.0\DigitalForensics.Helper.deps.json
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\bin\Debug\net5.0\DigitalForensics.Helper.dll
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\bin\Debug\net5.0\ref\DigitalForensics.Helper.dll
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\bin\Debug\net5.0\DigitalForensics.Helper.pdb
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.AssemblyInfo.cs
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.dll
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\ref\DigitalForensics.Helper.dll
+C:\Users\marko\source\repos\FileSystemAnalysis\DigitalForensics.Helper\obj\Debug\net5.0\DigitalForensics.Helper.pdb
